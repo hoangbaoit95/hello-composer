@@ -1,5 +1,6 @@
 {
     "name": "hoangbaoit95/hello-composer",
+    "description": "Hello Composer",
     "autoload": {
         "psr-4": {
             "Hoangbaoit95\\HelloComposer\\": "src/"
@@ -11,5 +12,6 @@
             "email": "hoangbaoit95@gmail.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "license": "MIT"
 }
